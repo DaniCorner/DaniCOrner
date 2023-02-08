@@ -1,16 +1,24 @@
-### Hi there 👋
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/DaniCorner/DaniCOrner/main/DanielRincon.png" alt="Daniel Rincón" />
+</h1>
 
-<!--
-**DaniCorner/DaniCOrner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hey! 👋
+I'm Daniel, a budding Web Developer and a psychologist from Spain.
 
-Here are some ideas to get you started:
+- 🧭 Efficient in handling crisis both as an individual and team- player. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👥 I'm a Junior Front-end Engineer looking to get started in the industry. My background is in Web Application Development 
+ -- I like to make things work. I discovered my passion for web development during my Doctoral Studies, and I've been self-teaching ever since.
+ -- Official Certificate: Advanced Vocational Training in Web Application Development GRUPO ILERNA.
+
+
+
+
+## Skills
+- 👨‍💻 HTML5, CSS, JavaScript
+- ⚙️ React, PHP, C#, Java
+- 👁️ SASS, MySQL, SQL, Oracle
+- 💽 Docker
+
+## Contact
+- [Daniel Rincón](www.linkedin.com/in/daniel-rincón-hurtado-9a756515a)
