@@ -15,9 +15,9 @@ I'm Daniel, a budding Web Developer and a psychologist from Spain.
 
 
 ## Skills
-- 👨‍💻 HTML5, CSS, JavaScript
-- ⚙️ React, PHP, C#, Java
-- 👁️ SASS, MySQL, SQL, Oracle
+- 👨‍💻 HTML5, CSS, JavaScript, Typescript
+- ⚙️ Angular, PHP, Java, Spring
+- 👁️ MySQL, SASS, Oracle
 - 💽 Docker
 
 ## Contact
